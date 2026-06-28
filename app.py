@@ -10,7 +10,7 @@ import mplfinance as mpf
 # CẤU HÌNH TRANG
 # =============================
 st.set_page_config(
-    page_title="Phân tích cổ phiếu bằng Mann-Kendall",
+    page_title="Phân tích cổ phiếu bằng Mann-Kendall_ĐỀ TÀI 6_PHI YẾN",
     page_icon="📈",
     layout="wide"
 )
